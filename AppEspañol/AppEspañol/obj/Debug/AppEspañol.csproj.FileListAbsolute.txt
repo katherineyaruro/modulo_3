@@ -1,0 +1,5 @@
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppEspañol\AppEspañol\bin\Debug\AppEspañol.exe.config
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppEspañol\AppEspañol\bin\Debug\AppEspañol.exe
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppEspañol\AppEspañol\bin\Debug\AppEspañol.pdb
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppEspañol\AppEspañol\obj\Debug\AppEspañol.exe
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppEspañol\AppEspañol\obj\Debug\AppEspañol.pdb

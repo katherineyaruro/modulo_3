@@ -1,0 +1,6 @@
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppValores\AppValores\bin\Debug\AppValores.exe.config
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppValores\AppValores\obj\Debug\AppValores.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppValores\AppValores\bin\Debug\AppValores.exe
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppValores\AppValores\bin\Debug\AppValores.pdb
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppValores\AppValores\obj\Debug\AppValores.exe
+c:\users\lab104bpc7\documents\visual studio 2012\Projects\AppValores\AppValores\obj\Debug\AppValores.pdb
